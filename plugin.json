@@ -1,0 +1,10 @@
+{
+    "id" : "cage-analysis-plugin",
+    "name" : "Sample Plugin",
+    "files" : [
+        { 
+            "name":"plugin",
+            "src":"lib/plugin.js"
+        }
+    ]
+}
